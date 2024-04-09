@@ -1,2 +1,3 @@
-get live weather report from api.
-Pure Vanilla javaScript code.
+Get live weather reports from API.
+Pure Vanilla JavaScript code.
+Technologies used JavaScript and Html.
